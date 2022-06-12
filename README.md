@@ -259,6 +259,7 @@
 - [CVE-2022-26133：Atlassian Bitbucket Data Center 反序列化漏洞批量验证和利用](https://github.com/Trhackno/CVE-2022-26133)
 - [CVE-2022-26134：Confluence OGNL 注入RCE漏洞](https://github.com/Nwqda/CVE-2022-26134)
 - [CVE-2022-32275：GRAFANA 8.4.3 DASHBOARD 目录遍历](https://github.com/BrotherOfJhonny/grafana)|[CVE-2022-32276：未授权绕过漏洞](https://github.com/BrotherOfJhonny/grafana)
+- [SXF_SSLVPN_arbitrary_get_session：SSLVPN任意用户登录漏洞](https://github.com/DaxiaSec/SXF_SSLVPN_arbitrary_get_session)
 
 ## <span id="head5"> 提权辅助相关</span>
 
@@ -311,6 +312,7 @@
 - [【Windows 提权】Auto-Elevate：通过bypass UAC 和令牌模拟提权到 system权限](https://github.com/FULLSHADE/Auto-Elevate)
 - [【Linux 提权】CVE-2021-4204：Linux Kernel eBPF Local Privilege Escalation](https://github.com/tr3ee/CVE-2021-4204)
 - [【Linux 提权】CVE-2022-23222：Linux Kernel eBPF Local Privilege Escalation](https://github.com/tr3ee/CVE-2022-23222)
+- [【Windows 提权】PrivExchange：通过滥用Exchange将您的权限交换为域管理权限](https://github.com/dirkjanm/PrivExchange)
 
 ## <span id="head6"> PC</span>
 
@@ -1231,6 +1233,29 @@
 - [gomasscan：gomasscan是一个纯go编写的masscan扫描库](https://github.com/lcvvvv/gomasscan)
 - [cdnlookup：一个使用 Edns-Client-Subnet(ECS) 遍历智能CDN节点IP地址的工具](https://github.com/burpheart/cdnlookup)
 - [DefaultCreds-cheat-sheet：默认账号密码列表](https://github.com/ihebski/DefaultCreds-cheat-sheet)
+- [riskscanner：开源的多云安全合规扫描平台，基于 Cloud Custodian 和 Nuclei 引擎，实现对主流公(私)有云资源的安全合规扫描和漏洞扫描](https://github.com/riskscanner/riskscanner)
+- [Mythic：一个协作、多平台、红队的框架](https://github.com/its-a-feature/Mythic)
+- [BlastWithCaptcha：验证码识别 爆破 本地ocr 多线程爆破](https://github.com/AbelChe/BlastWithCaptcha)
+- [python-shellcode-loader：python免杀shellcode加载器 加密混淆](https://github.com/HZzz2/python-shellcode-loader)
+- [go-shellcode-loader：GO免杀shellcode加载器混淆AES加密](https://github.com/HZzz2/go-shellcode-loader)
+- [ThinkphpGUI：Thinkphp(GUI)漏洞利用工具，支持各版本TP漏洞检测，命令执行，getshell和日志泄露检查](https://github.com/Lotus6/ThinkphpGUI)
+- [webprobe：一款快速探测web存活并获取title的工具](https://github.com/damit5/webprobe)
+- [CHAOS：开源远控管理工具](https://github.com/tiagorlampert/CHAOS)
+- [gitdorks_go：一款在github上发现敏感信息的自动化收集工具](https://github.com/damit5/gitdorks_go)
+- [ScareCrow：一款为bypass EDR的框架](https://github.com/optiv/ScareCrow)
+- [InCloud：运行于GitHub Actions 的仓库中自动化、自定义和执行软件开发工作流程，定制好十种针对网段和域名的不同场景的信息收集与漏洞扫描流程](https://github.com/inbug-team/InCloud)
+- [Log4j_RCE_Tool：Log4j 多线程批量检测利用工具](https://github.com/inbug-team/Log4j_RCE_Tool)
+- [np：解析、去重和查询多个端口扫描的工具](https://github.com/leesoh/np)
+- [Nidhogg：一款适用于红队的一体化简单易用的 rootkit](https://github.com/Idov31/Nidhogg)
+- [KillDefender：通过删除其令牌特权并降低令牌完整性来杀掉defender](https://github.com/pwn1sher/KillDefender)
+- [KillDefender_BOF：KillDefender的BOF 实现](https://github.com/Octoberfest7/KillDefender_BOF)
+- [fscan-POC：强化fscan的漏扫POC库](https://github.com/chaosec2021/fscan-POC)
+- [Krakatau：Java 反编译器、汇编器和反汇编器](https://github.com/Storyyeller/Krakatau)
+- [heartsk_community：Hearts K-企业资产发现与脆弱性检查工具，自动化资产信息收集与漏洞扫描](https://github.com/yqcs/heartsk_community)
+- [URLFinder：类似JSFinder的golang实现，更快更全更舒服](https://github.com/pingc0y/URLFinder)
+- [Memoryshell-JavaALL：收集内存马打入方式](https://github.com/achuna33/Memoryshell-JavaALL)
+- [codeql_compile：自动反编译闭源应用，创建codeql数据库](https://github.com/ice-doom/codeql_compile)
+- [SerializationDumper：一种以更易读的形式转储 Java 序列化流的工具](https://github.com/NickstaDB/SerializationDumperc)
 
 ## <span id="head8"> 文章/书籍/教程相关</span>
 
